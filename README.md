@@ -37,7 +37,7 @@ Java compiler 1.8+ [Java 1.8](https://www.oracle.com/java/technologies/javase/ja
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-git clone repo
+git clone git@github.com:Alekla0126/KWIC.git
 cd path/to/KWIC/src/
 ```
 
@@ -46,7 +46,7 @@ cd path/to/KWIC/src/
 Want to contribute? Great!
 
 ```sh
-git clone repo
+git clone git@github.com:Alekla0126/KWIC.git
 ```
 Run it with:
 
